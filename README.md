@@ -136,4 +136,14 @@ Looking into the file [hw2.pdf](https://drive.google.com/file/d/1m7DXCSWqoE29S2v
 
 1. Texture pictures are in the skybox (Download from "http://titan.csit.rmit.edu.au/~e20068/teaching/i3dg&a/2020/tute-tex.html")
 
-## PIC
+## Sample
+
+<img width="1435" alt="pic" src="https://user-images.githubusercontent.com/51981236/174482757-526d5717-091b-42bb-8d7e-4e9640c54cf5.png">
+
+![226](https://user-images.githubusercontent.com/51981236/174482792-88f1af3d-b856-4e1e-ac4f-10a826eec3e3.jpg)
+
+![687](https://user-images.githubusercontent.com/51981236/174482813-cc91223c-d3ea-475c-a4c8-7069c67d873c.jpg)
+
+![728](https://user-images.githubusercontent.com/51981236/174482823-cc227a56-c331-4695-8ba8-5cca4ccfd1b6.jpg)
+
+
